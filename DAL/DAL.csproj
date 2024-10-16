@@ -50,7 +50,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Acess\SachAcess.cs" />
+    <Compile Include="Acess\PhieuMuon\PhieuMuonAcess.cs" />
+    <Compile Include="Acess\Sach\SachAcess.cs" />
     <Compile Include="Entity\Model1.cs" />
     <Compile Include="Entity\NHANVIEN.cs" />
     <Compile Include="Entity\PHIEUMUON.cs" />

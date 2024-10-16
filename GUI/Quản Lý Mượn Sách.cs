@@ -1,4 +1,7 @@
-﻿using System;
+﻿using BUS;
+using BUS.PhieuMuon;
+using DAL;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,19 +15,82 @@ namespace GUI
 {
     public partial class Quản_Lý_Mượn_Sách : Form
     {
+        private readonly PhieuMuonService phieuMuonService = new PhieuMuonService();
+        Model1 context = new Model1();
         public Quản_Lý_Mượn_Sách()
         {
             InitializeComponent();
+            phieuMuonService = new PhieuMuonService();
+        }
+        private void BindGrid(List<PHIEUMUON> listPhieuMuon)
+        {
+            dataGridView1.Rows.Clear();
+            foreach (var item in listPhieuMuon)
+            {
+                int index = dataGridView1.Rows.Add();
+                dataGridView1.Rows[index].Cells[0].Value = item.MaPhieuMuon;
+                dataGridView1.Rows[index].Cells[1].Value = item.TheThanhVien.MaThanhVien;
+                dataGridView1.Rows[index].Cells[2].Value = item.SACH.TenSach;
+                dataGridView1.Rows[index].Cells[3].Value = item.MaSach;
+                dataGridView1.Rows[index].Cells[4].Value = item.SACH.SoLuongSachMuon;
+                dataGridView1.Rows[index].Cells[5].Value = item.NgayMuon.HasValue ? item.NgayMuon.Value.ToString("dd/MM/yyyy") : "Chưa có ngày mượn"; 
+                dataGridView1.Rows[index].Cells[6].Value = item.NgayTra.HasValue ? item.NgayTra.Value.ToString("dd/MM/yyyy") : "Chưa có ngày trả";
+                dataGridView1.Rows[index].Cells[7].Value = item.TrangThai.HasValue && item.TrangThai.Value ? "Đã trả" : "Chưa trả"; 
+            }
+        }
+        public void setGridViewStyle(DataGridView dgview)
+        {
+            dgview.BorderStyle = BorderStyle.None;
+            dgview.DefaultCellStyle.SelectionBackColor = Color.DarkTurquoise;
+            dgview.CellBorderStyle = DataGridViewCellBorderStyle.SingleHorizontal;
+
+            dgview.BackgroundColor = Color.White;
+            dgview.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
+        }
+        private void Quản_Lý_Mượn_Sách_Load(object sender, EventArgs e)
+        {
+            try
+            {
+                setGridViewStyle(dataGridView1);
+                var listPhieuMuon = phieuMuonService.GetAll(); 
+                BindGrid(listPhieuMuon);  
+                
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
+            try
+            {
+                
+                PHIEUMUON newPhieuMuon = new PHIEUMUON
+                {
+                    MaPhieuMuon = txtMaPhieuMuon.Text, 
+                    MaSach = txtMaSach.Text, 
+                    MaNhanVien = txtMaNhanVien.Text, 
+                    MaTheThanhVien = txtMaTheThanhVien.Text,
+                    NgayMuon = dateTimePickerNgayMuon.Value, 
+                    NgayTra = dateTimePickerNgayTra.Value,
+                    TrangThai = false 
+                };
 
-        }
+                
+                phieuMuonService.AddPhieu(newPhieuMuon);
 
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
+               
+                var listPhieuMuon = phieuMuonService.GetAll();
+                BindGrid(listPhieuMuon);
 
+                MessageBox.Show("Thêm phiếu mượn thành công!");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Có lỗi xảy ra: {ex.Message}");
+            }
         }
     }
 }

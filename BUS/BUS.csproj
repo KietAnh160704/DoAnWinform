@@ -48,8 +48,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PhieuMuon\PhieuMuonService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SachService.cs" />
+    <Compile Include="Sach\SachService.cs" />
+    <Compile Include="Sach\TheLoaiService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
