@@ -1,0 +1,15 @@
+D:\DoAnWinform\qlthuvien\BUS\bin\Debug\BUS.dll.config
+D:\DoAnWinform\qlthuvien\BUS\bin\Debug\BUS.dll
+D:\DoAnWinform\qlthuvien\BUS\bin\Debug\BUS.pdb
+D:\DoAnWinform\qlthuvien\BUS\bin\Debug\DAL.dll
+D:\DoAnWinform\qlthuvien\BUS\bin\Debug\EntityFramework.dll
+D:\DoAnWinform\qlthuvien\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAnWinform\qlthuvien\BUS\bin\Debug\DAL.pdb
+D:\DoAnWinform\qlthuvien\BUS\bin\Debug\DAL.dll.config
+D:\DoAnWinform\qlthuvien\BUS\bin\Debug\EntityFramework.xml
+D:\DoAnWinform\qlthuvien\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAnWinform\qlthuvien\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\DoAnWinform\qlthuvien\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\DoAnWinform\qlthuvien\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\DoAnWinform\qlthuvien\BUS\obj\Debug\BUS.dll
+D:\DoAnWinform\qlthuvien\BUS\obj\Debug\BUS.pdb

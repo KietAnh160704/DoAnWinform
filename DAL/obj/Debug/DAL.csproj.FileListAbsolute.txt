@@ -1,0 +1,12 @@
+D:\DoAnWinform\qlthuvien\DAL\bin\Debug\DAL.dll.config
+D:\DoAnWinform\qlthuvien\DAL\bin\Debug\DAL.dll
+D:\DoAnWinform\qlthuvien\DAL\bin\Debug\DAL.pdb
+D:\DoAnWinform\qlthuvien\DAL\bin\Debug\EntityFramework.dll
+D:\DoAnWinform\qlthuvien\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAnWinform\qlthuvien\DAL\bin\Debug\EntityFramework.xml
+D:\DoAnWinform\qlthuvien\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAnWinform\qlthuvien\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\DoAnWinform\qlthuvien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DoAnWinform\qlthuvien\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\DoAnWinform\qlthuvien\DAL\obj\Debug\DAL.dll
+D:\DoAnWinform\qlthuvien\DAL\obj\Debug\DAL.pdb
