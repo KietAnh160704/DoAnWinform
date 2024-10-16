@@ -45,5 +45,10 @@ namespace BUS
         {
             return sachAcess.SearchBooks(searchTerm);
         }
+
+        public List<SACH> SearchBooksUser(string searchTerm, string maTheLoai)
+        {
+            return sachAcess.SearchBooksUser(searchTerm, maTheLoai);
+        }
     }
 }

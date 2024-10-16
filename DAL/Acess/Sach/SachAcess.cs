@@ -59,6 +59,23 @@ namespace DAL.Acess
                 .Where(s => s.TenSach.Contains(searchTerm) || s.NhaXuatBan.Contains(searchTerm))
                 .ToList();
         }
+        public List<SACH> SearchBooksUser(string searchTerm, string maTheLoai)
+        {
+          
+            if (!string.IsNullOrEmpty(searchTerm))
+            {
+                return context.SACHes
+                .Where(s => s.TenSach.Contains(searchTerm) || s.NhaXuatBan.Contains(searchTerm))
+                .ToList();
+            }
+            else if (!string.IsNullOrEmpty(maTheLoai) && maTheLoai != "ALL")
+            {
+                return context.SACHes.Where(s=>s.MaTheLoai == maTheLoai).ToList();
+            }
+
+            return context.SACHes.ToList();
+        }
+
     }
 }
 

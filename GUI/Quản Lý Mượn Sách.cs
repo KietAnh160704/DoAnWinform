@@ -64,33 +64,12 @@ namespace GUI
 
         private void button1_Click(object sender, EventArgs e)
         {
-            try
-            {
-                
-                PHIEUMUON newPhieuMuon = new PHIEUMUON
-                {
-                    MaPhieuMuon = txtMaPhieuMuon.Text, 
-                    MaSach = txtMaSach.Text, 
-                    MaNhanVien = txtMaNhanVien.Text, 
-                    MaTheThanhVien = txtMaTheThanhVien.Text,
-                    NgayMuon = dateTimePickerNgayMuon.Value, 
-                    NgayTra = dateTimePickerNgayTra.Value,
-                    TrangThai = false 
-                };
+            
+        }
 
-                
-                phieuMuonService.AddPhieu(newPhieuMuon);
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
 
-               
-                var listPhieuMuon = phieuMuonService.GetAll();
-                BindGrid(listPhieuMuon);
-
-                MessageBox.Show("Thêm phiếu mượn thành công!");
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Có lỗi xảy ra: {ex.Message}");
-            }
         }
     }
 }
