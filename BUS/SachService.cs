@@ -20,5 +20,15 @@ namespace BUS
             context.SACHes.Add(sach);
             context.SaveChanges();
         }
+        public List<SACH> SearchByName(string name)
+        {
+            using (var context = new Model1())
+            {
+                return context.SACHes.ToList()
+                              .Where(s => s.TenSach.Contains(name))
+                              .ToList();
+            }
+        }
+
     }
 }

@@ -1,30 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DoAnWinform\\qlthuvien\\",
+  "WorkspaceRootPath": "D:\\C#\\DoAnWinform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04F29A46-5416-49F6-9C6B-5EAB9CA3DC71}|DAL\\DAL.csproj|d:\\doanwinform\\qlthuvien\\dal\\acess\\sachacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04F29A46-5416-49F6-9C6B-5EAB9CA3DC71}|DAL\\DAL.csproj|solutionrelative:dal\\acess\\sachacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|d:\\c#\\doanwinform\\gui\\qu\u1EA3n l\u00FD s\u00E1ch.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|solutionrelative:gui\\qu\u1EA3n l\u00FD s\u00E1ch.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|d:\\doanwinform\\qlthuvien\\gui\\qu\u1EA3n l\u00FD s\u00E1ch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|D:\\C#\\DoAnWinform\\gui\\qu\u1EA3n l\u00FD s\u00E1ch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|solutionrelative:gui\\qu\u1EA3n l\u00FD s\u00E1ch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04F29A46-5416-49F6-9C6B-5EAB9CA3DC71}|DAL\\DAL.csproj|d:\\doanwinform\\qlthuvien\\dal\\entity\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04F29A46-5416-49F6-9C6B-5EAB9CA3DC71}|DAL\\DAL.csproj|solutionrelative:dal\\entity\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|D:\\DoAnWinform\\qlthuvien\\gui\\qu\u1EA3n l\u00FD s\u00E1ch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|D:\\C#\\DoAnWinform\\gui\\qu\u1EA3n l\u00FD s\u00E1ch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|solutionrelative:gui\\qu\u1EA3n l\u00FD s\u00E1ch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B838085-1471-40FA-A2C1-1E6C592A006B}|BUS\\BUS.csproj|D:\\DoAnWinform\\qlthuvien\\bus\\sachservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B838085-1471-40FA-A2C1-1E6C592A006B}|BUS\\BUS.csproj|solutionrelative:bus\\sachservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|D:\\C#\\DoAnWinform\\gui\\t\u00ECm ki\u1EBFm s\u00E1ch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|solutionrelative:gui\\t\u00ECm ki\u1EBFm s\u00E1ch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|D:\\DoAnWinform\\qlthuvien\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B838085-1471-40FA-A2C1-1E6C592A006B}|BUS\\BUS.csproj|D:\\C#\\DoAnWinform\\bus\\trasachservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B838085-1471-40FA-A2C1-1E6C592A006B}|BUS\\BUS.csproj|solutionrelative:bus\\trasachservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|D:\\C#\\DoAnWinform\\gui\\qu\u1EA3n l\u00FD \u0111\u1ECDc gi\u1EA3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|solutionrelative:gui\\qu\u1EA3n l\u00FD \u0111\u1ECDc gi\u1EA3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B838085-1471-40FA-A2C1-1E6C592A006B}|BUS\\BUS.csproj|D:\\C#\\DoAnWinform\\bus\\thanhvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B838085-1471-40FA-A2C1-1E6C592A006B}|BUS\\BUS.csproj|solutionrelative:bus\\thanhvienservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F29A46-5416-49F6-9C6B-5EAB9CA3DC71}|DAL\\DAL.csproj|D:\\C#\\DoAnWinform\\dal\\entity\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F29A46-5416-49F6-9C6B-5EAB9CA3DC71}|DAL\\DAL.csproj|solutionrelative:dal\\entity\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|D:\\C#\\DoAnWinform\\gui\\qu\u1EA3n l\u00FD \u0111\u1ECDc gi\u1EA3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|solutionrelative:gui\\qu\u1EA3n l\u00FD \u0111\u1ECDc gi\u1EA3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|D:\\C#\\DoAnWinform\\gui\\qu\u1EA3n l\u00FD tr\u1EA3 s\u00E1ch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|solutionrelative:gui\\qu\u1EA3n l\u00FD tr\u1EA3 s\u00E1ch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|D:\\C#\\DoAnWinform\\gui\\qu\u1EA3n l\u00FD tr\u1EA3 s\u00E1ch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|solutionrelative:gui\\qu\u1EA3n l\u00FD tr\u1EA3 s\u00E1ch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,82 +57,134 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Qu\u1EA3n L\u00FD \u0110\u1ECDc Gi\u1EA3.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD \u0110\u1ECDc Gi\u1EA3.cs",
+              "RelativeDocumentMoniker": "GUI\\Qu\u1EA3n L\u00FD \u0110\u1ECDc Gi\u1EA3.cs",
+              "ToolTip": "D:\\C#\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD \u0110\u1ECDc Gi\u1EA3.cs [Design]",
+              "RelativeToolTip": "GUI\\Qu\u1EA3n L\u00FD \u0110\u1ECDc Gi\u1EA3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:24:40.078Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SachAcess.cs",
-              "DocumentMoniker": "D:\\DoAnWinform\\qlthuvien\\DAL\\Acess\\SachAcess.cs",
-              "RelativeDocumentMoniker": "DAL\\Acess\\SachAcess.cs",
-              "ToolTip": "D:\\DoAnWinform\\qlthuvien\\DAL\\Acess\\SachAcess.cs",
-              "RelativeToolTip": "DAL\\Acess\\SachAcess.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Title": "Qu\u1EA3n L\u00FD S\u00E1ch.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD S\u00E1ch.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\Qu\u1EA3n L\u00FD S\u00E1ch.Designer.cs",
+              "ToolTip": "D:\\C#\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD S\u00E1ch.Designer.cs",
+              "RelativeToolTip": "GUI\\Qu\u1EA3n L\u00FD S\u00E1ch.Designer.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAjwG0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T08:45:08.597Z",
+              "WhenOpened": "2024-10-16T12:34:58.991Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DoAnWinform\\qlthuvien\\GUI\\Program.cs",
-              "RelativeDocumentMoniker": "GUI\\Program.cs",
-              "ToolTip": "D:\\DoAnWinform\\qlthuvien\\GUI\\Program.cs",
-              "RelativeToolTip": "GUI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T07:51:39.342Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Model1.cs",
-              "DocumentMoniker": "D:\\DoAnWinform\\qlthuvien\\DAL\\Entity\\Model1.cs",
-              "RelativeDocumentMoniker": "DAL\\Entity\\Model1.cs",
-              "ToolTip": "D:\\DoAnWinform\\qlthuvien\\DAL\\Entity\\Model1.cs",
-              "RelativeToolTip": "DAL\\Entity\\Model1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Title": "Qu\u1EA3n L\u00FD S\u00E1ch.cs",
+              "DocumentMoniker": "D:\\C#\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD S\u00E1ch.cs",
+              "RelativeDocumentMoniker": "GUI\\Qu\u1EA3n L\u00FD S\u00E1ch.cs",
+              "ToolTip": "D:\\C#\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD S\u00E1ch.cs",
+              "RelativeToolTip": "GUI\\Qu\u1EA3n L\u00FD S\u00E1ch.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T07:45:03.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SachService.cs",
-              "DocumentMoniker": "D:\\DoAnWinform\\qlthuvien\\BUS\\SachService.cs",
-              "RelativeDocumentMoniker": "BUS\\SachService.cs",
-              "ToolTip": "D:\\DoAnWinform\\qlthuvien\\BUS\\SachService.cs",
-              "RelativeToolTip": "BUS\\SachService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T07:42:45.069Z"
+              "WhenOpened": "2024-10-16T12:34:41.986Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Qu\u1EA3n L\u00FD S\u00E1ch.cs [Design]",
-              "DocumentMoniker": "D:\\DoAnWinform\\qlthuvien\\GUI\\Qu\u1EA3n L\u00FD S\u00E1ch.cs",
+              "DocumentMoniker": "D:\\C#\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD S\u00E1ch.cs",
               "RelativeDocumentMoniker": "GUI\\Qu\u1EA3n L\u00FD S\u00E1ch.cs",
-              "ToolTip": "D:\\DoAnWinform\\qlthuvien\\GUI\\Qu\u1EA3n L\u00FD S\u00E1ch.cs [Design]",
+              "ToolTip": "D:\\C#\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD S\u00E1ch.cs [Design]",
               "RelativeToolTip": "GUI\\Qu\u1EA3n L\u00FD S\u00E1ch.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:44:27.813Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-16T12:34:39.489Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Qu\u1EA3n L\u00FD S\u00E1ch.cs",
-              "DocumentMoniker": "D:\\DoAnWinform\\qlthuvien\\GUI\\Qu\u1EA3n L\u00FD S\u00E1ch.cs",
-              "RelativeDocumentMoniker": "GUI\\Qu\u1EA3n L\u00FD S\u00E1ch.cs",
-              "ToolTip": "D:\\DoAnWinform\\qlthuvien\\GUI\\Qu\u1EA3n L\u00FD S\u00E1ch.cs",
-              "RelativeToolTip": "GUI\\Qu\u1EA3n L\u00FD S\u00E1ch.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwDgAAAAgAAAAAAAAAA==",
+              "Title": "T\u00ECm Ki\u1EBFm S\u00E1ch.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\DoAnWinform\\GUI\\T\u00ECm Ki\u1EBFm S\u00E1ch.cs",
+              "RelativeDocumentMoniker": "GUI\\T\u00ECm Ki\u1EBFm S\u00E1ch.cs",
+              "ToolTip": "D:\\C#\\DoAnWinform\\GUI\\T\u00ECm Ki\u1EBFm S\u00E1ch.cs [Design]",
+              "RelativeToolTip": "GUI\\T\u00ECm Ki\u1EBFm S\u00E1ch.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:54:35.967Z"
+              "WhenOpened": "2024-10-16T12:34:32.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "D:\\C#\\DoAnWinform\\DAL\\Entity\\Model1.cs",
+              "RelativeDocumentMoniker": "DAL\\Entity\\Model1.cs",
+              "ToolTip": "D:\\C#\\DoAnWinform\\DAL\\Entity\\Model1.cs",
+              "RelativeToolTip": "DAL\\Entity\\Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwLcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:30:41.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThanhVienService.cs",
+              "DocumentMoniker": "D:\\C#\\DoAnWinform\\BUS\\ThanhVienService.cs",
+              "RelativeDocumentMoniker": "BUS\\ThanhVienService.cs",
+              "ToolTip": "D:\\C#\\DoAnWinform\\BUS\\ThanhVienService.cs",
+              "RelativeToolTip": "BUS\\ThanhVienService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:25:28.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TraSachService.cs",
+              "DocumentMoniker": "D:\\C#\\DoAnWinform\\BUS\\TraSachService.cs",
+              "RelativeDocumentMoniker": "BUS\\TraSachService.cs",
+              "ToolTip": "D:\\C#\\DoAnWinform\\BUS\\TraSachService.cs",
+              "RelativeToolTip": "BUS\\TraSachService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:25:23.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Qu\u1EA3n L\u00FD \u0110\u1ECDc Gi\u1EA3.cs",
+              "DocumentMoniker": "D:\\C#\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD \u0110\u1ECDc Gi\u1EA3.cs",
+              "RelativeDocumentMoniker": "GUI\\Qu\u1EA3n L\u00FD \u0110\u1ECDc Gi\u1EA3.cs",
+              "ToolTip": "D:\\C#\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD \u0110\u1ECDc Gi\u1EA3.cs",
+              "RelativeToolTip": "GUI\\Qu\u1EA3n L\u00FD \u0110\u1ECDc Gi\u1EA3.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAANwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:24:46.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Qu\u1EA3n L\u00FD Tr\u1EA3 S\u00E1ch.cs",
+              "DocumentMoniker": "D:\\C#\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD Tr\u1EA3 S\u00E1ch.cs",
+              "RelativeDocumentMoniker": "GUI\\Qu\u1EA3n L\u00FD Tr\u1EA3 S\u00E1ch.cs",
+              "ToolTip": "D:\\C#\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD Tr\u1EA3 S\u00E1ch.cs",
+              "RelativeToolTip": "GUI\\Qu\u1EA3n L\u00FD Tr\u1EA3 S\u00E1ch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:24:11.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Qu\u1EA3n L\u00FD Tr\u1EA3 S\u00E1ch.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD Tr\u1EA3 S\u00E1ch.cs",
+              "RelativeDocumentMoniker": "GUI\\Qu\u1EA3n L\u00FD Tr\u1EA3 S\u00E1ch.cs",
+              "ToolTip": "D:\\C#\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD Tr\u1EA3 S\u00E1ch.cs [Design]",
+              "RelativeToolTip": "GUI\\Qu\u1EA3n L\u00FD Tr\u1EA3 S\u00E1ch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:23:46.492Z"
             }
           ]
         }

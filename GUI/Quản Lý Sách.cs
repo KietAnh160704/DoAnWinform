@@ -28,7 +28,7 @@ namespace GUI
             {
                 int index = dataGridView1.Rows.Add();
                 dataGridView1.Rows[index].Cells[0].Value = item.MaSach;
-                dataGridView1.Rows[index].Cells[1].Value = item.TenSach;               
+                dataGridView1.Rows[index].Cells[1].Value = item.TenSach;
                 dataGridView1.Rows[index].Cells[2].Value = item.NhaXuatBan;
                 dataGridView1.Rows[index].Cells[3].Value = item.NamXuatBan;
                 dataGridView1.Rows[index].Cells[4].Value = item.SoLuongSachHienCo;
@@ -59,5 +59,10 @@ namespace GUI
                 MessageBox.Show(ex.Message);
             }
         }
+
+
     }
+
 }
+    
+

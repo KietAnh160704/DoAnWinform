@@ -15,8 +15,8 @@ namespace GUI
         static void Main()
         {
             Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Quản_Lý_Sách());
+            //Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Quản_Lý_Đọc_Giả());
         }
     }
 }
