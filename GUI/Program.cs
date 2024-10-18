@@ -16,7 +16,7 @@ namespace GUI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Quản_Lý_Mượn_Sách());
+            Application.Run(new Quản_Lý_Tác_Giả());
         }
     }
 }

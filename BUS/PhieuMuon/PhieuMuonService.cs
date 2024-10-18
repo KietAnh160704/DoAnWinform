@@ -10,8 +10,8 @@ namespace BUS.PhieuMuon
 {
     public class PhieuMuonService
     {
-        private PhieuMuonAcess phieuMuonAcess; 
-
+        private PhieuMuonAcess phieuMuonAcess;
+        
         public PhieuMuonService() 
         {
             phieuMuonAcess = new PhieuMuonAcess(); 
@@ -19,6 +19,22 @@ namespace BUS.PhieuMuon
         public List<PHIEUMUON> GetAll()
         {
             return phieuMuonAcess.GetAll(); 
+        }
+        public void AddPhieu(PHIEUMUON phieuMuon)
+        {
+            if (phieuMuon == null)
+            {
+                throw new ArgumentNullException("phieuMuon", "Phiếu mượn không thể là null.");
+            }            
+            if (string.IsNullOrWhiteSpace(phieuMuon.MaPhieuMuon) ||
+                string.IsNullOrWhiteSpace(phieuMuon.MaSach) ||
+                string.IsNullOrWhiteSpace(phieuMuon.MaNhanVien) ||
+                string.IsNullOrWhiteSpace(phieuMuon.MaTheThanhVien))
+            {
+                throw new Exception("Các trường bắt buộc không được bỏ trống.");
+            }
+
+            phieuMuonAcess.AddPhieu(phieuMuon);
         }
         public void UpdatePhieu(PHIEUMUON phieuMuon)
         {
@@ -37,5 +53,7 @@ namespace BUS.PhieuMuon
             PhieuMuonAcess phieuMuonAcess = new PhieuMuonAcess();
             return phieuMuonAcess.GetPhieuMuonByMa(maPhieuMuon);
         }
+        
+      
     }
 }

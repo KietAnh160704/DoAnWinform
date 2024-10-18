@@ -52,6 +52,8 @@
   <ItemGroup>
     <Compile Include="Acess\PhieuMuon\PhieuMuonAcess.cs" />
     <Compile Include="Acess\Sach\SachAcess.cs" />
+    <Compile Include="Acess\TacGia\TacGiaAcess.cs" />
+    <Compile Include="Acess\User\UserAcess.cs" />
     <Compile Include="Entity\Model1.cs" />
     <Compile Include="Entity\NHANVIEN.cs" />
     <Compile Include="Entity\PHIEUMUON.cs" />

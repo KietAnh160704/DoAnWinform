@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.txtNamXB = new System.Windows.Forms.TextBox();
             this.cmbTheLoai = new System.Windows.Forms.ComboBox();
             this.button5 = new System.Windows.Forms.Button();
             this.textBox8 = new System.Windows.Forms.TextBox();
@@ -56,7 +57,6 @@
             this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.txtNamXB = new System.Windows.Forms.TextBox();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -91,6 +91,13 @@
             this.groupBox2.TabIndex = 22;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Thông tin sách";
+            // 
+            // txtNamXB
+            // 
+            this.txtNamXB.Location = new System.Drawing.Point(375, 64);
+            this.txtNamXB.Name = "txtNamXB";
+            this.txtNamXB.Size = new System.Drawing.Size(100, 20);
+            this.txtNamXB.TabIndex = 40;
             // 
             // cmbTheLoai
             // 
@@ -277,6 +284,7 @@
             // 
             // dataGridView1
             // 
+            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Column1,
@@ -329,13 +337,6 @@
             // 
             this.Column6.HeaderText = "Số Lượng Mượn";
             this.Column6.Name = "Column6";
-            // 
-            // txtNamXB
-            // 
-            this.txtNamXB.Location = new System.Drawing.Point(375, 64);
-            this.txtNamXB.Name = "txtNamXB";
-            this.txtNamXB.Size = new System.Drawing.Size(100, 20);
-            this.txtNamXB.TabIndex = 40;
             // 
             // Quản_Lý_Sách
             // 
