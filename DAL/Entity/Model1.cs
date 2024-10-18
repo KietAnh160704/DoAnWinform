@@ -17,7 +17,7 @@ namespace DAL
         public virtual DbSet<SACH> SACHes { get; set; }
         public virtual DbSet<TACGIA> TACGIAs { get; set; }
         public virtual DbSet<THANHVIEN> THANHVIENs { get; set; }
-        public virtual DbSet<THELOAI> THELOAIs { get; set; }
+        public virtual DbSet<THELOAI> THELOAIs { get; set; }    
         public virtual DbSet<THEPHAT> THEPHATs { get; set; }
         public virtual DbSet<TheThanhVien> TheThanhViens { get; set; }
         public virtual DbSet<USER> USERS { get; set; }
