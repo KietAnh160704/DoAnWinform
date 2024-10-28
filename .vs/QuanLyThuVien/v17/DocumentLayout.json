@@ -1,41 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DoAnWinform\\",
+  "WorkspaceRootPath": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B838085-1471-40FA-A2C1-1E6C592A006B}|BUS\\BUS.csproj|d:\\doanwinform\\bus\\phieuphat\\phieuphatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|c:\\users\\nmcuo\\source\\repos\\doanwinform\\gui\\\u0111\u0103ngnh\u1EADp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|solutionrelative:gui\\\u0111\u0103ngnh\u1EADp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|c:\\users\\nmcuo\\source\\repos\\doanwinform\\gui\\\u0111\u0103ngnh\u1EADp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|solutionrelative:gui\\\u0111\u0103ngnh\u1EADp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|c:\\users\\nmcuo\\source\\repos\\doanwinform\\gui\\\u0111\u0103ngnh\u1EADp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|solutionrelative:gui\\\u0111\u0103ngnh\u1EADp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B838085-1471-40FA-A2C1-1E6C592A006B}|BUS\\BUS.csproj|c:\\users\\nmcuo\\source\\repos\\doanwinform\\bus\\phieuphat\\phieuphatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B838085-1471-40FA-A2C1-1E6C592A006B}|BUS\\BUS.csproj|solutionrelative:bus\\phieuphat\\phieuphatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B838085-1471-40FA-A2C1-1E6C592A006B}|BUS\\BUS.csproj|D:\\DoAnWinform\\bus\\phieumuon\\phieumuonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B838085-1471-40FA-A2C1-1E6C592A006B}|BUS\\BUS.csproj|C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\bus\\phieumuon\\phieumuonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B838085-1471-40FA-A2C1-1E6C592A006B}|BUS\\BUS.csproj|solutionrelative:bus\\phieumuon\\phieumuonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04F29A46-5416-49F6-9C6B-5EAB9CA3DC71}|DAL\\DAL.csproj|D:\\DoAnWinform\\dal\\acess\\phieuphat\\phieuphatacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04F29A46-5416-49F6-9C6B-5EAB9CA3DC71}|DAL\\DAL.csproj|C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\dal\\acess\\phieuphat\\phieuphatacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04F29A46-5416-49F6-9C6B-5EAB9CA3DC71}|DAL\\DAL.csproj|solutionrelative:dal\\acess\\phieuphat\\phieuphatacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|D:\\DoAnWinform\\gui\\qu\u1EA3n l\u00FD phi\u1EBFu ph\u1EA1t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\gui\\qu\u1EA3n l\u00FD phi\u1EBFu ph\u1EA1t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|solutionrelative:gui\\qu\u1EA3n l\u00FD phi\u1EBFu ph\u1EA1t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|D:\\DoAnWinform\\gui\\qu\u1EA3n l\u00FD phi\u1EBFu ph\u1EA1t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\gui\\qu\u1EA3n l\u00FD phi\u1EBFu ph\u1EA1t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|solutionrelative:gui\\qu\u1EA3n l\u00FD phi\u1EBFu ph\u1EA1t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04F29A46-5416-49F6-9C6B-5EAB9CA3DC71}|DAL\\DAL.csproj|D:\\DoAnWinform\\dal\\entity\\thephat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04F29A46-5416-49F6-9C6B-5EAB9CA3DC71}|DAL\\DAL.csproj|C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\dal\\entity\\thephat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04F29A46-5416-49F6-9C6B-5EAB9CA3DC71}|DAL\\DAL.csproj|solutionrelative:dal\\entity\\thephat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04F29A46-5416-49F6-9C6B-5EAB9CA3DC71}|DAL\\DAL.csproj|D:\\DoAnWinform\\dal\\acess\\sach\\sachacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{04F29A46-5416-49F6-9C6B-5EAB9CA3DC71}|DAL\\DAL.csproj|C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\dal\\acess\\sach\\sachacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04F29A46-5416-49F6-9C6B-5EAB9CA3DC71}|DAL\\DAL.csproj|solutionrelative:dal\\acess\\sach\\sachacess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|D:\\DoAnWinform\\gui\\qu\u1EA3n l\u00FD t\u00E1c gi\u1EA3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\gui\\qu\u1EA3n l\u00FD t\u00E1c gi\u1EA3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|solutionrelative:gui\\qu\u1EA3n l\u00FD t\u00E1c gi\u1EA3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|D:\\DoAnWinform\\gui\\qu\u1EA3n l\u00FD t\u00E1c gi\u1EA3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\gui\\qu\u1EA3n l\u00FD t\u00E1c gi\u1EA3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0BF14A89-C122-470F-92F8-A7639C061644}|GUI\\GUI.csproj|solutionrelative:gui\\qu\u1EA3n l\u00FD t\u00E1c gi\u1EA3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -46,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,11 +66,49 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u0110\u0103ngNh\u1EADp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\GUI\\\u0110\u0103ngNh\u1EADp.Designer.cs",
+              "RelativeDocumentMoniker": "GUI\\\u0110\u0103ngNh\u1EADp.Designer.cs",
+              "ToolTip": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\GUI\\\u0110\u0103ngNh\u1EADp.Designer.cs*",
+              "RelativeToolTip": "GUI\\\u0110\u0103ngNh\u1EADp.Designer.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAJsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T01:26:52.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "\u0110\u0103ngNh\u1EADp.cs",
+              "DocumentMoniker": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\GUI\\\u0110\u0103ngNh\u1EADp.cs",
+              "RelativeDocumentMoniker": "GUI\\\u0110\u0103ngNh\u1EADp.cs",
+              "ToolTip": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\GUI\\\u0110\u0103ngNh\u1EADp.cs*",
+              "RelativeToolTip": "GUI\\\u0110\u0103ngNh\u1EADp.cs*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwE4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T01:19:35.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0110\u0103ngNh\u1EADp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\GUI\\\u0110\u0103ngNh\u1EADp.cs",
+              "RelativeDocumentMoniker": "GUI\\\u0110\u0103ngNh\u1EADp.cs",
+              "ToolTip": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\GUI\\\u0110\u0103ngNh\u1EADp.cs [Design]*",
+              "RelativeToolTip": "GUI\\\u0110\u0103ngNh\u1EADp.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T01:12:35.586Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PhieuMuonService.cs",
-              "DocumentMoniker": "D:\\DoAnWinform\\BUS\\PhieuMuon\\PhieuMuonService.cs",
+              "DocumentMoniker": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\BUS\\PhieuMuon\\PhieuMuonService.cs",
               "RelativeDocumentMoniker": "BUS\\PhieuMuon\\PhieuMuonService.cs",
-              "ToolTip": "D:\\DoAnWinform\\BUS\\PhieuMuon\\PhieuMuonService.cs",
+              "ToolTip": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\BUS\\PhieuMuon\\PhieuMuonService.cs",
               "RelativeToolTip": "BUS\\PhieuMuon\\PhieuMuonService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -66,24 +116,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PhieuPhatService.cs",
-              "DocumentMoniker": "D:\\DoAnWinform\\BUS\\PhieuPhat\\PhieuPhatService.cs",
+              "DocumentMoniker": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\BUS\\PhieuPhat\\PhieuPhatService.cs",
               "RelativeDocumentMoniker": "BUS\\PhieuPhat\\PhieuPhatService.cs",
-              "ToolTip": "D:\\DoAnWinform\\BUS\\PhieuPhat\\PhieuPhatService.cs",
+              "ToolTip": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\BUS\\PhieuPhat\\PhieuPhatService.cs",
               "RelativeToolTip": "BUS\\PhieuPhat\\PhieuPhatService.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAiwB8AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T07:31:26.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "SachAcess.cs",
-              "DocumentMoniker": "D:\\DoAnWinform\\DAL\\Acess\\Sach\\SachAcess.cs",
+              "DocumentMoniker": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\DAL\\Acess\\Sach\\SachAcess.cs",
               "RelativeDocumentMoniker": "DAL\\Acess\\Sach\\SachAcess.cs",
-              "ToolTip": "D:\\DoAnWinform\\DAL\\Acess\\Sach\\SachAcess.cs",
+              "ToolTip": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\DAL\\Acess\\Sach\\SachAcess.cs",
               "RelativeToolTip": "DAL\\Acess\\Sach\\SachAcess.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,11 +141,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "PhieuPhatAcess.cs",
-              "DocumentMoniker": "D:\\DoAnWinform\\DAL\\Acess\\PhieuPhat\\PhieuPhatAcess.cs",
+              "DocumentMoniker": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\DAL\\Acess\\PhieuPhat\\PhieuPhatAcess.cs",
               "RelativeDocumentMoniker": "DAL\\Acess\\PhieuPhat\\PhieuPhatAcess.cs",
-              "ToolTip": "D:\\DoAnWinform\\DAL\\Acess\\PhieuPhat\\PhieuPhatAcess.cs",
+              "ToolTip": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\DAL\\Acess\\PhieuPhat\\PhieuPhatAcess.cs",
               "RelativeToolTip": "DAL\\Acess\\PhieuPhat\\PhieuPhatAcess.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,11 +153,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "THEPHAT.cs",
-              "DocumentMoniker": "D:\\DoAnWinform\\DAL\\Entity\\THEPHAT.cs",
+              "DocumentMoniker": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\DAL\\Entity\\THEPHAT.cs",
               "RelativeDocumentMoniker": "DAL\\Entity\\THEPHAT.cs",
-              "ToolTip": "D:\\DoAnWinform\\DAL\\Entity\\THEPHAT.cs",
+              "ToolTip": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\DAL\\Entity\\THEPHAT.cs",
               "RelativeToolTip": "DAL\\Entity\\THEPHAT.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -115,11 +165,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Qu\u1EA3n L\u00FD T\u00E1c Gi\u1EA3.cs",
-              "DocumentMoniker": "D:\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD T\u00E1c Gi\u1EA3.cs",
+              "DocumentMoniker": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD T\u00E1c Gi\u1EA3.cs",
               "RelativeDocumentMoniker": "GUI\\Qu\u1EA3n L\u00FD T\u00E1c Gi\u1EA3.cs",
-              "ToolTip": "D:\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD T\u00E1c Gi\u1EA3.cs",
+              "ToolTip": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD T\u00E1c Gi\u1EA3.cs",
               "RelativeToolTip": "GUI\\Qu\u1EA3n L\u00FD T\u00E1c Gi\u1EA3.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAA1wDUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -127,11 +177,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Qu\u1EA3n L\u00FD Phi\u1EBFu Ph\u1EA1t.cs",
-              "DocumentMoniker": "D:\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD Phi\u1EBFu Ph\u1EA1t.cs",
+              "DocumentMoniker": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD Phi\u1EBFu Ph\u1EA1t.cs",
               "RelativeDocumentMoniker": "GUI\\Qu\u1EA3n L\u00FD Phi\u1EBFu Ph\u1EA1t.cs",
-              "ToolTip": "D:\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD Phi\u1EBFu Ph\u1EA1t.cs",
+              "ToolTip": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD Phi\u1EBFu Ph\u1EA1t.cs",
               "RelativeToolTip": "GUI\\Qu\u1EA3n L\u00FD Phi\u1EBFu Ph\u1EA1t.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAD4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,23 +189,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Qu\u1EA3n L\u00FD Phi\u1EBFu Ph\u1EA1t.cs [Design]",
-              "DocumentMoniker": "D:\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD Phi\u1EBFu Ph\u1EA1t.cs",
+              "DocumentMoniker": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD Phi\u1EBFu Ph\u1EA1t.cs",
               "RelativeDocumentMoniker": "GUI\\Qu\u1EA3n L\u00FD Phi\u1EBFu Ph\u1EA1t.cs",
               "ToolTip": "D:\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD Phi\u1EBFu Ph\u1EA1t.cs [Design]",
-              "RelativeToolTip": "GUI\\Qu\u1EA3n L\u00FD Phi\u1EBFu Ph\u1EA1t.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T07:30:37.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Qu\u1EA3n L\u00FD T\u00E1c Gi\u1EA3.cs [Design]",
-              "DocumentMoniker": "D:\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD T\u00E1c Gi\u1EA3.cs",
+              "DocumentMoniker": "C:\\Users\\Nmcuo\\source\\repos\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD T\u00E1c Gi\u1EA3.cs",
               "RelativeDocumentMoniker": "GUI\\Qu\u1EA3n L\u00FD T\u00E1c Gi\u1EA3.cs",
               "ToolTip": "D:\\DoAnWinform\\GUI\\Qu\u1EA3n L\u00FD T\u00E1c Gi\u1EA3.cs [Design]",
-              "RelativeToolTip": "GUI\\Qu\u1EA3n L\u00FD T\u00E1c Gi\u1EA3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T05:45:59.012Z"
             }

@@ -71,5 +71,12 @@ namespace GUI
         {
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            this.Text = "Đăng Nhập";
+            label1.ForeColor = Color.Red;
+            label2.ForeColor = Color.Red;
+        }
     }
 }

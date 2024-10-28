@@ -22,3 +22,15 @@ D:\DoAnWinform\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 D:\DoAnWinform\DAL\obj\Debug\DAL.csproj.Up2Date
 D:\DoAnWinform\DAL\obj\Debug\DAL.dll
 D:\DoAnWinform\DAL\obj\Debug\DAL.pdb
+C:\Users\Nmcuo\source\repos\DoAnWinform\DAL\bin\Debug\DAL.dll.config
+C:\Users\Nmcuo\source\repos\DoAnWinform\DAL\bin\Debug\DAL.dll
+C:\Users\Nmcuo\source\repos\DoAnWinform\DAL\bin\Debug\DAL.pdb
+C:\Users\Nmcuo\source\repos\DoAnWinform\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Nmcuo\source\repos\DoAnWinform\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nmcuo\source\repos\DoAnWinform\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Nmcuo\source\repos\DoAnWinform\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nmcuo\source\repos\DoAnWinform\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Nmcuo\source\repos\DoAnWinform\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Nmcuo\source\repos\DoAnWinform\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Nmcuo\source\repos\DoAnWinform\DAL\obj\Debug\DAL.dll
+C:\Users\Nmcuo\source\repos\DoAnWinform\DAL\obj\Debug\DAL.pdb
