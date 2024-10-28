@@ -189,7 +189,9 @@ namespace GUI
 
         private void button4_Click(object sender, EventArgs e)
         {
-
+            QuảnLý frm1 = new QuảnLý();
+            frm1.Show();
+            this.Hide();
         }
     }
 }

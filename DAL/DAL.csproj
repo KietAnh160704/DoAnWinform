@@ -51,6 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Acess\PhieuMuon\PhieuMuonAcess.cs" />
+    <Compile Include="Acess\PhieuPhat\PhieuPhatAcess.cs" />
     <Compile Include="Acess\Sach\SachAcess.cs" />
     <Compile Include="Acess\TacGia\TacGiaAcess.cs" />
     <Compile Include="Acess\User\UserAcess.cs" />
@@ -70,5 +71,6 @@
     <None Include="App.config" />
     <None Include="Entity\packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

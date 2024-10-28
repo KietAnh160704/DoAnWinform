@@ -1,4 +1,7 @@
-﻿using System;
+﻿using BUS.PhieuPhatService;
+using BUS.TacGia;
+using DAL;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,9 +15,40 @@ namespace GUI
 {
     public partial class Quản_Lý_Phiếu_Phạt : Form
     {
+        private readonly PhieuPhatService phieuPhatService = new PhieuPhatService();
+        Model1 context = new Model1();
         public Quản_Lý_Phiếu_Phạt()
         {
             InitializeComponent();
+            
+        }
+        public void setGridViewStyle(DataGridView dgview)
+        {
+            dgview.BorderStyle = BorderStyle.None;
+            dgview.DefaultCellStyle.SelectionBackColor = Color.DarkTurquoise;
+            dgview.CellBorderStyle = DataGridViewCellBorderStyle.SingleHorizontal;
+
+            dgview.BackgroundColor = Color.White;
+            dgview.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
+        }
+        private void BindGrid(List<THEPHAT> listPhieu)
+        {
+            dataGridView2.Rows.Clear();
+            foreach (var item in listPhieu)
+            {
+                int index = dataGridView2.Rows.Add();
+                dataGridView2.Rows[index].Cells[0].Value = item.MaThePhat;
+                dataGridView2.Rows[index].Cells[1].Value = item.MaPhieuMuon;
+                dataGridView2.Rows[index].Cells[2].Value = item.MaNhanVien;
+                dataGridView2.Rows[index].Cells[3].Value = item.TienPhat;
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            QuảnLý frm1 = new QuảnLý();
+            frm1.Show();
+            this.Hide();
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
@@ -22,109 +56,11 @@ namespace GUI
 
         }
 
-        private void label6_Click(object sender, EventArgs e)
+        private void Quản_Lý_Phiếu_Phạt_Load(object sender, EventArgs e)
         {
-
-        }
-
-        private void label8_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox2_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox5_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox4_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox3_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
-        private void dataGridView2_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
+            setGridViewStyle(dataGridView2);
+            List<THEPHAT> tHEPHATs = new List<THEPHAT>();
+            BindGrid(tHEPHATs);
         }
     }
 }

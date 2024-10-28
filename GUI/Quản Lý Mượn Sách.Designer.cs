@@ -29,6 +29,9 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.txtMaNhanVien = new System.Windows.Forms.TextBox();
             this.cmbTrangThai = new System.Windows.Forms.ComboBox();
             this.label9 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
@@ -50,8 +53,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.txtMaPhieu = new System.Windows.Forms.TextBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.txtMaNhanVien = new System.Windows.Forms.TextBox();
-            this.label10 = new System.Windows.Forms.Label();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -61,7 +62,6 @@
             this.Column8 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column9 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.label5 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -99,6 +99,33 @@
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Thông Tin Phiếu Mượn";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(595, 32);
+            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(82, 13);
+            this.label5.TabIndex = 48;
+            this.label5.Text = "Mã Phiếu Mượn";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(286, 49);
+            this.label10.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(75, 13);
+            this.label10.TabIndex = 47;
+            this.label10.Text = "Mã Nhân Viên";
+            // 
+            // txtMaNhanVien
+            // 
+            this.txtMaNhanVien.Location = new System.Drawing.Point(378, 46);
+            this.txtMaNhanVien.Name = "txtMaNhanVien";
+            this.txtMaNhanVien.Size = new System.Drawing.Size(100, 20);
+            this.txtMaNhanVien.TabIndex = 46;
             // 
             // cmbTrangThai
             // 
@@ -236,6 +263,7 @@
             this.button4.TabIndex = 27;
             this.button4.Text = "Trở Về";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button3
             // 
@@ -311,23 +339,6 @@
             this.dataGridView1.TabIndex = 2;
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
-            // txtMaNhanVien
-            // 
-            this.txtMaNhanVien.Location = new System.Drawing.Point(378, 46);
-            this.txtMaNhanVien.Name = "txtMaNhanVien";
-            this.txtMaNhanVien.Size = new System.Drawing.Size(100, 20);
-            this.txtMaNhanVien.TabIndex = 46;
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(286, 49);
-            this.label10.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(75, 13);
-            this.label10.TabIndex = 47;
-            this.label10.Text = "Mã Nhân Viên";
-            // 
             // Column1
             // 
             this.Column1.HeaderText = "MÃ PHIẾU MƯỢN ";
@@ -372,16 +383,6 @@
             // 
             this.Column5.HeaderText = "Mã Thẻ";
             this.Column5.Name = "Column5";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(595, 32);
-            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(82, 13);
-            this.label5.TabIndex = 48;
-            this.label5.Text = "Mã Phiếu Mượn";
             // 
             // Quản_Lý_Mượn_Sách
             // 
